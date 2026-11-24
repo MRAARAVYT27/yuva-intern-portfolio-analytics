@@ -48,8 +48,7 @@ Work in progress – modules and documentation are being developed incrementally
 
 ## Author
 
-Akruth K V
-
+AARAV MISHRA
 ## Internship
 
 Yuva Intern – Data Science Project Coordinator
