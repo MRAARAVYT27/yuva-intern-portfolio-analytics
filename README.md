@@ -38,4 +38,5 @@ All project names, owners, budgets, progress, costs and weekly records are synth
 - `documentation/` – methodology and usage guide
 
 ## Author
-Akruth K V
+Aarav Mishra
+
